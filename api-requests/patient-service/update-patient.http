@@ -3,7 +3,7 @@ Content-Type: application/json
 
 {
   "name": "Bipro2 Barai",
-  "email": "test@gmail.com",
+  "email": "test2@gmail.com",
   "address": "123 Main St, Springfield, USA",
   "dateOfBirth": "1999-09-09",
     "registeredDate": "2024-11-28"
